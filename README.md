@@ -1,4 +1,4 @@
-This repository is contains my front-end development samples.
+This repository contains my front-end development samples.
 
 The folder basic-restaurant-menu contains a responsive basic website with a css folder.
 The website is responsive in desktop-view, tablet-view as well as mobile-view. 
